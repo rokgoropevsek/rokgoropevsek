@@ -2,8 +2,6 @@
 <h1 align="center">I'm Rok Goropevšek</h1>
 <h3 align="center">Very curious junior developer</h3>
 
-<p align="left"> <a href="https://twitter.com/rokgoropevsek" target="blank"><img src="https://img.shields.io/twitter/follow/rokgoropevsek?logo=twitter&style=for-the-badge" alt="rokgoropevsek" /></a> </p>
-
 - 🔭 I’m currently working on [CanUtils](https://github.com/rokgoropevsek/CanUtils)
 
 - 🌱 I’m currently learning **Machine learning, embedded systems and web/mobile app developement**
