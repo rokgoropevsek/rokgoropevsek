@@ -1,4 +1,4 @@
-![Cover](https://images.pexels.com/photos/11061048/pexels-photo-11061048.jpeg?cs=srgb&dl=pexels-carlos-jamaica-11061048.jpg&fm=jpg)
+![Cover](https://images.unsplash.com/photo-1628744301791-d416de069399?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2854&q=80)
 <h1 align="center">I'm Rok Goropevšek</h1>
 <h3 align="center">Very curious junior developer</h3>
 
