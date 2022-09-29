@@ -1,5 +1,5 @@
 ![nekaj](https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80)
-<h1 align="center">Hi 👋, I'm Rok Goropevšek</h1>
+<h1 align="center">I'm Rok Goropevšek</h1>
 <h3 align="center">Very curious junior developer</h3>
 
 - 🔭 I’m currently working on [CanUtils](https://github.com/rokgoropevsek/CanUtils)
